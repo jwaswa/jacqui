@@ -1,0 +1,33 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[4]:
+
+
+names=("jacqui waswa")
+
+
+# In[5]:
+
+
+print(name)
+
+
+# In[6]:
+
+
+#Enter first and last name
+names = input("Enter first and last name")
+print(names)
+print()
+#Enter your goals for this class
+print("What are your goals for this class - long term goals? ")
+goals = input('What would you like to be....when all is said and done with the class? ')
+print(goals)
+
+
+# In[ ]:
+
+
+
+
